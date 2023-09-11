@@ -4,13 +4,13 @@
 Soy un apasionado desarrollador con experiencia en una amplia gama de tecnologías y habilidades. Me enorgullece mi capacidad para aprender rápidamente y adaptarme a nuevas situaciones. Mi objetivo es contribuir de manera significativa en proyectos desafiantes y fomentar un ambiente de trabajo colaborativo.
 
 ## 🚀 Habilidades
-- Programación: ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+- Programación: ![Python](https://img.shields.io/badge/Python-Advance-blue)
 - Desarrollo Web: ![Angular](https://img.shields.io/badge/Angular-Advanced-red), ![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange), ![CSS3](https://img.shields.io/badge/CSS3-Advanced-green), ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
 - Bases de Datos: ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue), ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue), ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue)
-- Cloud Computing: ![GCP](https://img.shields.io/badge/GCP-Advanced-red), ![AWS](https://img.shields.io/badge/AWS-Advanced-red), ![Terraform](https://img.shields.io/badge/Terraform-Intermediate-blue)
-- Seguridad Informática: ![Pentesting](https://img.shields.io/badge/Pentesting-Advanced-red), ![SIEMs](https://img.shields.io/badge/SIEMs-Advanced-red)
+- Cloud Computing: ![GCP](https://img.shields.io/badge/GCP-Advanced-red), ![AWS](https://img.shields.io/badge/AWS-Intermediate-red), ![Terraform](https://img.shields.io/badge/Terraform-Intermediate-blue)
+- Seguridad Informática: ![Pentesting](https://img.shields.io/badge/Pentesting-Intermediate-red), ![SIEMs](https://img.shields.io/badge/SIEMs-Advanced-red)
 - Sistemas Operativos: ![Linux](https://img.shields.io/badge/Linux-Advanced-red), ![Windows](https://img.shields.io/badge/Windows-Intermediate-blue)
-- Automatización: ![Bash](https://img.shields.io/badge/Bash-Intermediate-blue), ![Python scripting](https://img.shields.io/badge/Python%20scripting-Intermediate-blue)
+- Automatización: ![Bash](https://img.shields.io/badge/Bash-Advance-blue), ![Python scripting](https://img.shields.io/badge/Python%20scripting-Advance-blue)
 - Control de Versiones: ![Git](https://img.shields.io/badge/Git-Advanced-red), ![GitHub](https://img.shields.io/badge/GitHub-Advanced-red)
 
 ## 🤝 Trabajo en equipo
